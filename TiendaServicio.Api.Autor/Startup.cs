@@ -1,3 +1,4 @@
+using AutoMapper;
 using FluentValidation.AspNetCore;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
@@ -14,6 +15,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using TiendaServicio.Api.Autor.Aplicacion;
 using TiendaServicio.Api.Autor.Persistencia;
+
 
 namespace TiendaServicio.Api.Autor
 {
@@ -34,9 +36,9 @@ namespace TiendaServicio.Api.Autor
             {
                 options.UseNpgsql(Configuration.GetConnectionString("ConexionDatabase"));
             });
-
-            services.AddMediatR(typeof(Nuevo.Manejador).Assembly);
             
+            services.AddMediatR(typeof(Nuevo.Manejador).Assembly);
+            services.AddAutoMapper(typeof(Consulta.Manejador));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

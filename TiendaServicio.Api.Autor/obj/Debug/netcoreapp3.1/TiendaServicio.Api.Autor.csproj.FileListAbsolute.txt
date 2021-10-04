@@ -36,7 +36,6 @@ C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\Tien
 C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Autor.dll
 C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Autor.pdb
 C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Autor.genruntimeconfig.cache
-C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Autor.csproj.AssemblyReference.cache
 C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.dll
 C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicio.Api.Autor.StaticWebAssets.xml
@@ -45,3 +44,6 @@ C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\Tien
 C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
 C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\TiendaServicios\TiendaServicio.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\franklin_maturana\Documents\Proyectos\Net core\MicroservicioTienda\TiendaServicios\TiendaServicio.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Autor.csproj.AssemblyReference.cache

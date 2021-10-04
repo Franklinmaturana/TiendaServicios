@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Cxm9I/dGGJ3Egicw0QwgKM9+5AOp++Pw6h2cOriGrIixu840GxzFbWKDEu8nkZQ1sSgiIl8qLhNRBjtG95mPXg==",
+  "dgSpecHash": "2IacdGLoWglyILz+9c47Q8Q7okkDlElO/ugfzTwbei0ngO5CC3jZ8EzgqDdppdg9G/RY13qrM7uG4SSsckbKMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\franklin_maturana\\Documents\\Proyectos\\Net core\\MicroservicioTienda\\TiendaServicios\\TiendaServicio.Api.Autor\\TiendaServicio.Api.Autor.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\franklin_maturana\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\franklin_maturana\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\franklin_maturana\\.nuget\\packages\\fluentvalidation\\10.3.1\\fluentvalidation.10.3.1.nupkg.sha512",
     "C:\\Users\\franklin_maturana\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.1\\fluentvalidation.aspnetcore.10.3.1.nupkg.sha512",
     "C:\\Users\\franklin_maturana\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.1\\fluentvalidation.dependencyinjectionextensions.10.3.1.nupkg.sha512",
@@ -34,6 +36,7 @@
     "C:\\Users\\franklin_maturana\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
     "C:\\Users\\franklin_maturana\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\franklin_maturana\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
+    "C:\\Users\\franklin_maturana\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\franklin_maturana\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],
   "logs": []
